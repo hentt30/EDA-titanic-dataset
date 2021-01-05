@@ -20,4 +20,4 @@ At last, the standard deviation was calculated.
 
 ![\Large std=14.4134932 ](https://latex.codecogs.com/svg.latex?std=14.4134932)
 
-The fact that the standard deviation is half the average is yet another fact to support our hypothesis that most of the passengers on the titanic were young.
+The fact that the standard deviation is half the average is yet another fact to support the hypothesis that most of the passengers on the titanic were young.
