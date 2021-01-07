@@ -43,3 +43,13 @@ is a small but very wealthy part of the passengers.
 ![Sex histogram](./assets/sex_histogram.png)
 
 The figure shows that the majority of the passengers were male, which may be related to the fact that greater male independence at that time.
+
+## Was there a greater chance for women to survive?
+
+To calculate the correlation matrix, one hot encoding was used, where "female" was mapped to the value 1 and "male" to 0.
+
+
+![Correlation matrix](./assets/correlation_matrix.png)
+
+
+As one can see from the correlation matrix, there is a strong positive correlation between being female and the variable that denotes if a passenger survived or not. This can be explained by the fact that women and children were the first to evacuate the sinking ship.
